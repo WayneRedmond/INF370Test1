@@ -1,0 +1,6 @@
+@INF370Test_HostAddress = http://localhost:5162
+
+GET {{INF370Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
