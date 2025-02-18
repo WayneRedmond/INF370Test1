@@ -1,3 +1,49 @@
 GitHub User Guide: Writen by Wayne so if you are confused I was asswell :)
 
 Step 1:
+Open Visual Studio 2022.
+
+Step 2: 
+Click the "Clone a Repository" option
+
+Step 3:
+Paste the GitHub link (For this test repository it is: https://github.com/WayneRedmond/INF370Test1.git )
+
+Step 4: 
+Click on "Git" (the one in the top next to "View" and "Project")
+
+Step 5:
+Click the last option "Settings"
+
+Step 6: 
+Select "Source Control" and then "Plug-in Selection" and then select "Git"
+
+TO DOWNLOAD/ RETRIEVE OTHER PEOPLES WORK (DO THIS EVERYTIME YOUR START TO CODE)
+
+Step 7: 
+Click on "View" (the one next to "Git" and "Edit")
+
+Step 8: 
+Click on "Git Changes"
+
+Step 9: 
+Next to "master" there is 3 arrows, "Fetch" "Pull" "Push".
+Click on "Pull"
+
+TO UPLOAD YOUR CHANGES (DO THIS EVERY COUPLE OF MINUTES)
+
+Step 10:
+Click on "View" (the one next to "Git" and "Edit")
+
+Step 11: 
+Click on "Git Changes"
+
+Step 12: 
+In the text box please say what you changed or added
+
+Step 13:
+Click on "Commit All"
+
+Step 14:
+Next to "master" there is 3 arrows, "Fetch" "Pull" "Push".
+Click "Push"
